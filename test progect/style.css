@@ -1,0 +1,18 @@
+flex-container {
+  display: flex;
+  background-color: #f7941d;
+  margin: 20px;
+  flex-flow: row wrap;
+}
+.flex-container > div {
+  padding: 40px;
+  background-color: #c597ec;
+  margin: 10px;
+  color: #f7941d;
+  width: 80px;
+  margin-right: auto;
+  margin-left: auto;
+}
+button {
+  background-color: blue;
+}
