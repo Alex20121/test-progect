@@ -10,6 +10,8 @@ flex-container {
   margin: 10px;
   color: #f7941d;
   width: 80px;
+  margin-right: auto;
+  margin-left: auto;
 }
 button {
   background-color: blue;
